@@ -1,9 +1,9 @@
 [project]
 name = "python-persistent-apbf"
-version = "0.1.0"
+version = "0.2.0"
 description = "A S3 compatible persistent Age-Partitioned Bloom Filter implementation in Python"
 readme = "README.md"
-requires-python = ">=3.12"
+requires-python = ">=3.9"
 dependencies = [
     "mmh3>=5.0.1",
     "pyarrow>=19.0.0",
@@ -16,7 +16,7 @@ keywords = []
 classifiers = [
     "Development Status :: 3 - Alpha",
     "Programming Language :: Python :: 3",
-    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.9",
 ]
 
 [project.urls]
