@@ -1,5 +1,7 @@
 # Age-Partitioned Bloom Filter (APBF) in Python
 
+The code is inspired from the [apbf](https://github.com/CrowdStrike/apbf) repository.
+
 This repository contains a production-ready, thread-safe implementation of an Age-Partitioned Bloom Filter (APBF) in Python. It leverages:
 * Apache Arrow for snapshot serialization
 * Amazon S3 for storing and retrieving those snapshots
