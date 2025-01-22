@@ -35,8 +35,8 @@ This implementation is based on the paper:
 ## Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourorg/apbf-python.git
-cd apbf-python
+git clone https://github.com/ananthdurai/python-persistent-apbf.git
+cd python-persistent-apbf
 ```
 
 2. Install dependencies:
